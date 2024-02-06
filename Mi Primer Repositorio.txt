@@ -1,0 +1,2 @@
+Marlon Barrios. Practicando con la consola.
+"Hola mundo, desde vsc"
